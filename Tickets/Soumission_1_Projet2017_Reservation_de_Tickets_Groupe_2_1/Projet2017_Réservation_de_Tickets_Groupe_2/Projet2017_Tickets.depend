@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1494240216 source:c:\users\cyril\documents\3tbsieb\q2\progra\projets\projets 2017\projet-2017\projet2017_tickets\functions.c
+	<stdio.h>
+	<stdlib.h>
+	"Structures.h"
+
+1494240737 source:c:\users\cyril\documents\3tbsieb\q2\progra\projets\projets 2017\projet-2017\projet2017_tickets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+
+1494240251 c:\users\cyril\documents\3tbsieb\q2\progra\projets\projets 2017\projet-2017\projet2017_tickets\structures.h
+	<stdio.h>
+	<stdlib.h>
+
+1494698358 source:c:\users\test  admin\documents\ba3 - em\progra\projet info\projet2017_tickets\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+
+1494692599 c:\users\test  admin\documents\ba3 - em\progra\projet info\projet2017_tickets\structures.h
+	<stdio.h>
+	<stdlib.h>
+
+1494696580 source:c:\users\test  admin\documents\ba3 - em\progra\projet info\projet2017_tickets\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+
+1494692982 source:u:\progra\tickets\soumission_1_projet2017_reservation_de_tickets_groupe_2_1\projet2017_réservation_de_tickets_groupe_2\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+
+1494689000 u:\progra\tickets\soumission_1_projet2017_reservation_de_tickets_groupe_2_1\projet2017_réservation_de_tickets_groupe_2\structures.h
+	<stdio.h>
+	<stdlib.h>
+
+1494694760 source:u:\progra\tickets\soumission_1_projet2017_reservation_de_tickets_groupe_2_1\projet2017_réservation_de_tickets_groupe_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Structures.h"
+
